@@ -1,0 +1,10 @@
+{
+  "numberInputInstruction": "Enter your phone number",
+  "pickCountryLabel": "Pick a country",
+  "verificationMessage": "WhatsApp will need to verify your phone number",
+  "phoneNumberHint": "phone number",
+  "numberVerificationTitle": "Verifying your number",
+  "otpPromptMessage": "We have sent an SMS with code",
+  "otpHint": "- - - - - -",
+  "nameHint": "Enter your name"
+}
